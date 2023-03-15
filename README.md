@@ -1,1 +1,1 @@
-"# mindbox-test" 
+# mindbox-test
